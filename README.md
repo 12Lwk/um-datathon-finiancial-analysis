@@ -55,7 +55,9 @@ Our analysis revealed several critical factors that drive cryptocurrency prices:
 3.  **Mining Difficulty Shows a Non-Linear Relationship:** Piecewise regression identified a breakpoint at a difficulty level of 2.0. Below this point, price increases are gradual, but above it, the price rises much more steeply (slope of 4.43 vs. 0.54).
 4.  **Trading Volume Dictates Price Action:** Higher buy volumes consistently correlate with price increases, while higher sell volumes lead to price drops.
 
-![Feature Importance Chart](https://imgur.com/a/ReB4c8J)
+![Feature Importance Chart]([https://imgur.com/a/ReB4c8J](https://imgur.com/a/ReB4c8J))
+
+
 *(Chart showing the importance of taker_buy_volume and blockreward_usd)*
 
 ---
