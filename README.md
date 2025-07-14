@@ -82,7 +82,7 @@ The initial backtesting revealed a profitable but highly volatile strategy with 
 -   **Before Optimization:** The strategy was unpredictable, with a wide, negatively-skewed Sharpe Ratio distribution and deep drawdowns.
 -   **After Optimization:** The optimized strategy showed a much smoother equity curve, a Sharpe Ratio distribution shifted towards positive values, and significantly reduced maximum drawdowns. This demonstrates a more stable and reliable trading performance.
 
-![Sharpe Ratio Distribution](./assests/sharper_ratio.png)
+![Sharpe Ratio Distribution](./assests/shaper_ratio.png)
 *(Comparison of Sharpe Ratio distribution before and after optimization)*
 
 ---
