@@ -55,7 +55,7 @@ Our analysis revealed several critical factors that drive cryptocurrency prices:
 3.  **Mining Difficulty Shows a Non-Linear Relationship:** Piecewise regression identified a breakpoint at a difficulty level of 2.0. Below this point, price increases are gradual, but above it, the price rises much more steeply (slope of 4.43 vs. 0.54).
 4.  **Trading Volume Dictates Price Action:** Higher buy volumes consistently correlate with price increases, while higher sell volumes lead to price drops.
 
-![Feature Importance Chart](./assets/feature_importance.png)
+![Feature Importance Chart](./assests/feature_importance.png)
 
 
 *(Chart showing the importance of taker_buy_volume and blockreward_usd)*
@@ -82,7 +82,7 @@ The initial backtesting revealed a profitable but highly volatile strategy with 
 -   **Before Optimization:** The strategy was unpredictable, with a wide, negatively-skewed Sharpe Ratio distribution and deep drawdowns.
 -   **After Optimization:** The optimized strategy showed a much smoother equity curve, a Sharpe Ratio distribution shifted towards positive values, and significantly reduced maximum drawdowns. This demonstrates a more stable and reliable trading performance.
 
-![Sharpe Ratio Distribution](https://i.imgur.com/your-sharpe-ratio-chart.png)
+![Sharpe Ratio Distribution](./assests/sharper_ratio.png)
 *(Comparison of Sharpe Ratio distribution before and after optimization)*
 
 ---
